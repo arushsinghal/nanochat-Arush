@@ -3,7 +3,7 @@
 > A research-focused, learning-first fork of nanochat for end-to-end understanding and experimentation with micro-LLMs.
 
 ⚠️ **Important note on attribution**  
-This repository is a **derivative work** based on **nanochat** by :contentReference[oaicite:0]{index=0}.  
+This repository is a **derivative work** based on **nanochat** by : Andrej Kerpathy
 All core architecture, training pipeline design, and baseline implementation credit belongs to the original author.  
 This fork exists for **educational, experimental, and research-oriented purposes**.
 
